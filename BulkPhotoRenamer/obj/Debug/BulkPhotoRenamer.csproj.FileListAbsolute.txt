@@ -1,0 +1,18 @@
+c:\users\tedis\documents\visual studio 2017\Projects\BulkPhotoRenamer\BulkPhotoRenamer\obj\Debug\BulkPhotoRenamer.csprojResolveAssemblyReference.cache
+c:\users\tedis\documents\visual studio 2017\Projects\BulkPhotoRenamer\BulkPhotoRenamer\obj\Debug\BulkPhotoRenamer.Properties.Resources.resources
+c:\users\tedis\documents\visual studio 2017\Projects\BulkPhotoRenamer\BulkPhotoRenamer\obj\Debug\BulkPhotoRenamer.csproj.GenerateResource.Cache
+c:\users\tedis\documents\visual studio 2017\Projects\BulkPhotoRenamer\BulkPhotoRenamer\bin\Debug\BulkPhotoRenamer.exe.config
+c:\users\tedis\documents\visual studio 2017\Projects\BulkPhotoRenamer\BulkPhotoRenamer\bin\Debug\BulkPhotoRenamer.exe
+c:\users\tedis\documents\visual studio 2017\Projects\BulkPhotoRenamer\BulkPhotoRenamer\bin\Debug\BulkPhotoRenamer.pdb
+c:\users\tedis\documents\visual studio 2017\Projects\BulkPhotoRenamer\BulkPhotoRenamer\obj\Debug\BulkPhotoRenamer.exe
+c:\users\tedis\documents\visual studio 2017\Projects\BulkPhotoRenamer\BulkPhotoRenamer\obj\Debug\BulkPhotoRenamer.pdb
+c:\users\tedis\documents\visual studio 2017\Projects\BulkPhotoRenamer\BulkPhotoRenamer\obj\Debug\BulkPhotoRenamer.GUI.resources
+C:\Users\teddy\Google Drive\BulkPhotoRenamer\BulkPhotoRenamer\bin\Debug\BulkPhotoRenamer.exe.config
+C:\Users\teddy\Google Drive\BulkPhotoRenamer\BulkPhotoRenamer\bin\Debug\BulkPhotoRenamer.exe
+C:\Users\teddy\Google Drive\BulkPhotoRenamer\BulkPhotoRenamer\bin\Debug\BulkPhotoRenamer.pdb
+C:\Users\teddy\Google Drive\BulkPhotoRenamer\BulkPhotoRenamer\obj\Debug\BulkPhotoRenamer.csprojResolveAssemblyReference.cache
+C:\Users\teddy\Google Drive\BulkPhotoRenamer\BulkPhotoRenamer\obj\Debug\BulkPhotoRenamer.GUI.resources
+C:\Users\teddy\Google Drive\BulkPhotoRenamer\BulkPhotoRenamer\obj\Debug\BulkPhotoRenamer.Properties.Resources.resources
+C:\Users\teddy\Google Drive\BulkPhotoRenamer\BulkPhotoRenamer\obj\Debug\BulkPhotoRenamer.csproj.GenerateResource.Cache
+C:\Users\teddy\Google Drive\BulkPhotoRenamer\BulkPhotoRenamer\obj\Debug\BulkPhotoRenamer.exe
+C:\Users\teddy\Google Drive\BulkPhotoRenamer\BulkPhotoRenamer\obj\Debug\BulkPhotoRenamer.pdb
